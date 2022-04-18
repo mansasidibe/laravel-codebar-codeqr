@@ -12,5 +12,4 @@ Etape 5: Créer un controller et une vue (si c'est pas encore fait) pour l'affic
 
 Etape 6: Afficher le code QR : {!! QrCode::size(300)->backgroundColor(255,90,0)->generate('NomQr') !!}
 
-
 Fin
